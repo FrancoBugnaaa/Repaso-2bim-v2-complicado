@@ -10,6 +10,7 @@ public class PlatformBehavior : MonoBehaviour
     public GameObject esfera;
     public GameObject Baseizq;
     public GameObject Baseder;
+    
 
     
     // Start is called before the first frame update
